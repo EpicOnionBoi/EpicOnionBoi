@@ -1,2 +1,2 @@
 # Greetings
-Hello there. I like aviation and tech. Beginner programmer. 
+Hello there. I like aviation and tech. 
